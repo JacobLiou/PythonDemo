@@ -9,4 +9,4 @@ image_copy = cv2.merge((b, g, r))
 #  缩放图像
 #   平移图像
 #   旋转图像
-#   滤波
+#   滤q
